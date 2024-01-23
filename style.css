@@ -1,0 +1,12 @@
+td{
+    text-align: center;
+    vertical-align: middle;
+}th{
+    text-align: center;
+    vertical-align: middle;
+}
+.error{
+    font-size: small;color: rgb(169, 0, 0);font-weight: bold;
+    color: green;
+    border: none;
+}
